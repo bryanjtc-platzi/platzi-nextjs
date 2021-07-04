@@ -1,0 +1,38 @@
+{
+  "name": "platzi-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Bryan <bryan.thomas25000@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.10",
+    "cors": "^2.8.5",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.14.0",
+    "@types/react": "^17.0.13",
+    "husky": "^6.0.0",
+    "prettier": "^2.3.1",
+    "pretty-quick": "^3.1.0",
+    "typescript": "^4.3.5"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  }
+}
