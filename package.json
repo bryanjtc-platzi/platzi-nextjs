@@ -13,7 +13,7 @@
   "author": "Bryan <bryan.thomas25000@icloud.com>",
   "license": "ISC",
   "dependencies": {
-    "@types/cors": "^2.8.10",
+    "@types/cors": "^2.8.12",
     "cors": "^2.8.5",
     "isomorphic-unfetch": "^3.1.0",
     "next": "^11.0.1",
