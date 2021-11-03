@@ -9,7 +9,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const response = await fetch('https://platzi-avo.vercel.app/api/avo')
   const { data }: TAPIAvoResponse = await response.json()
 
-  const paths = data.map(({ id }) => ({ params: { id } }))
+  const paths = data.map(({ id }) => ({ params: { id: id.toString() } }))
 
   return {
     // Statically generate all paths
@@ -20,11 +20,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 // This also gets called at build time
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async (context) => {
+  const id = context.params?.id?.toString();
   // params contains the post `id`.
   // If the route is like /posts/1, then params.id is 1
   const response = await fetch(
-    `https://platzi-avo.vercel.app/api/avo/${params?.id}`
+    `https://platzi-avo.vercel.app/api/avo/${id}`
   )
   const product = await response.json()
 
