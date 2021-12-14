@@ -68,3 +68,5 @@ node_modules/
 .next
 .vercel
 out/
+.dccache
+tsconfig.tsbuildinfo
