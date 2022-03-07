@@ -15,3 +15,9 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PLATZI_NEXTJS }}'
           projectId: platzi-nextjs
+  automerge:
+    needs: build_and_preview
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge
+        uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
