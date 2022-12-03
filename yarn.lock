@@ -721,7 +721,7 @@ __metadata:
     pretty-quick: 3.1.3
     react: 18.1.0
     react-dom: 18.0.0
-    semantic-ui-css: 2.4.1
+    semantic-ui-css: 2.5.0
     semantic-ui-react: 2.1.4
     typescript: 4.9.3
   languageName: unknown
@@ -858,12 +858,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-ui-css@npm:2.4.1":
-  version: 2.4.1
-  resolution: "semantic-ui-css@npm:2.4.1"
+"semantic-ui-css@npm:2.5.0":
+  version: 2.5.0
+  resolution: "semantic-ui-css@npm:2.5.0"
   dependencies:
     jquery: x.*
-  checksum: 6351d9bfbeed667a39b9cde08372865bd04612450103aabff174bc46558ad1ac123157cab2716670019abf5a70f56a77d79d082b4043d8893ed350b9a6fed837
+  checksum: f8f9bea6f06f084a9ab0bd0fa46191586a4fc94194f092fbd78deff49ee559257eb3ba9b732916073143fa7816348a7424684a94e60621e889cb184906a750d6
   languageName: node
   linkType: hard
 
