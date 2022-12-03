@@ -722,7 +722,7 @@ __metadata:
     react: 18.1.0
     react-dom: 18.0.0
     semantic-ui-css: 2.4.1
-    semantic-ui-react: 2.1.3
+    semantic-ui-react: 2.1.4
     typescript: 4.9.3
   languageName: unknown
   linkType: soft
@@ -867,9 +867,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semantic-ui-react@npm:2.1.3":
-  version: 2.1.3
-  resolution: "semantic-ui-react@npm:2.1.3"
+"semantic-ui-react@npm:2.1.4":
+  version: 2.1.4
+  resolution: "semantic-ui-react@npm:2.1.4"
   dependencies:
     "@babel/runtime": ^7.10.5
     "@fluentui/react-component-event-listener": ~0.63.0
@@ -887,7 +887,7 @@ __metadata:
   peerDependencies:
     react: ^16.8.0 || ^17.0.0 || ^18.0.0
     react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
-  checksum: 91dbf934ecfec45acaa29be1f48bec20abecc387d0071c478e83d47f8380b137f35a6956c6599de65d83587c4e0ee5611115d487ee29a9c146692ec70e139919
+  checksum: 371de9540f11c4e78189de12a6cf81c8212ea698c93ad72904389462fb46c016207ce1781684a207c47a8ac790479e5d8810add957d9061fff929b546be14861
   languageName: node
   linkType: hard
 
