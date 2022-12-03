@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["pretty-quick", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:3.1.3"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.0.0"],\
-            ["semantic-ui-css", "npm:2.4.1"],\
+            ["semantic-ui-css", "npm:2.5.0"],\
             ["semantic-ui-react", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.4"],\
             ["typescript", "patch:typescript@npm%3A4.9.3#~builtin<compat/typescript>::version=4.9.3&hash=d73830"]\
           ],\
@@ -923,7 +923,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["pretty-quick", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:3.1.3"],\
             ["react", "npm:18.1.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.0.0"],\
-            ["semantic-ui-css", "npm:2.4.1"],\
+            ["semantic-ui-css", "npm:2.5.0"],\
             ["semantic-ui-react", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.4"],\
             ["typescript", "patch:typescript@npm%3A4.9.3#~builtin<compat/typescript>::version=4.9.3&hash=d73830"]\
           ],\
@@ -1113,10 +1113,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["semantic-ui-css", [\
-        ["npm:2.4.1", {\
-          "packageLocation": "./.yarn/cache/semantic-ui-css-npm-2.4.1-488d289b03-6351d9bfbe.zip/node_modules/semantic-ui-css/",\
+        ["npm:2.5.0", {\
+          "packageLocation": "./.yarn/cache/semantic-ui-css-npm-2.5.0-b745898d9d-f8f9bea6f0.zip/node_modules/semantic-ui-css/",\
           "packageDependencies": [\
-            ["semantic-ui-css", "npm:2.4.1"],\
+            ["semantic-ui-css", "npm:2.5.0"],\
             ["jquery", "npm:3.6.1"]\
           ],\
           "linkType": "HARD"\
