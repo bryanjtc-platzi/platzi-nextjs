@@ -35,5 +35,6 @@
     "tabWidth": 2,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "packageManager": "yarn@3.3.0"
 }

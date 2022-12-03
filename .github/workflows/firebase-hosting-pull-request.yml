@@ -9,15 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: npm ci && npm run build && npm run export
+      - run: yarn install --immutable --immutable-cache && yarn build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PLATZI_NEXTJS }}'
           projectId: platzi-nextjs
-  automerge:
-    needs: build_and_preview
-    runs-on: ubuntu-latest
-    steps:
-      - name: Merge
-        uses: KeisukeYamashita/auto-renovate-pull-request-merge@v1
