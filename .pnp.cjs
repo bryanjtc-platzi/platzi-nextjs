@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/cors", "npm:2.8.12"],\
+            ["@types/cors", "npm:2.8.13"],\
             ["@types/node", "npm:18.11.10"],\
             ["@types/react", "npm:18.0.26"],\
             ["cors", "npm:2.8.5"],\
@@ -284,10 +284,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/cors", [\
-        ["npm:2.8.12", {\
-          "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.12-ff52e8e514-8c45f112c7.zip/node_modules/@types/cors/",\
+        ["npm:2.8.13", {\
+          "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.13-4b8ac1068f-7ef197ea19.zip/node_modules/@types/cors/",\
           "packageDependencies": [\
-            ["@types/cors", "npm:2.8.12"]\
+            ["@types/cors", "npm:2.8.13"],\
+            ["@types/node", "npm:18.11.10"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -913,7 +914,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["platzi-nextjs", "workspace:."],\
-            ["@types/cors", "npm:2.8.12"],\
+            ["@types/cors", "npm:2.8.13"],\
             ["@types/node", "npm:18.11.10"],\
             ["@types/react", "npm:18.0.26"],\
             ["cors", "npm:2.8.5"],\
