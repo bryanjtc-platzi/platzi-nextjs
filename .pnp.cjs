@@ -32,7 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.11.18"],\
             ["@types/react", "npm:18.0.26"],\
             ["cors", "npm:2.8.5"],\
-            ["isomorphic-unfetch", "npm:4.0.1"],\
+            ["isomorphic-unfetch", "npm:4.0.2"],\
             ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:13.1.1"],\
             ["prettier", "npm:2.8.1"],\
             ["pretty-quick", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:3.1.3"],\
@@ -637,10 +637,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["isomorphic-unfetch", [\
-        ["npm:4.0.1", {\
-          "packageLocation": "./.yarn/cache/isomorphic-unfetch-npm-4.0.1-eb7d688354-ff6280eea9.zip/node_modules/isomorphic-unfetch/",\
+        ["npm:4.0.2", {\
+          "packageLocation": "./.yarn/cache/isomorphic-unfetch-npm-4.0.2-39843f2d46-a5c22569f1.zip/node_modules/isomorphic-unfetch/",\
           "packageDependencies": [\
-            ["isomorphic-unfetch", "npm:4.0.1"],\
+            ["isomorphic-unfetch", "npm:4.0.2"],\
             ["node-fetch", "npm:3.3.0"],\
             ["unfetch", "npm:5.0.0"]\
           ],\
@@ -953,7 +953,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.11.18"],\
             ["@types/react", "npm:18.0.26"],\
             ["cors", "npm:2.8.5"],\
-            ["isomorphic-unfetch", "npm:4.0.1"],\
+            ["isomorphic-unfetch", "npm:4.0.2"],\
             ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:13.1.1"],\
             ["prettier", "npm:2.8.1"],\
             ["pretty-quick", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:3.1.3"],\

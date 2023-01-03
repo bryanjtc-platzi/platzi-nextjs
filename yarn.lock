@@ -463,13 +463,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"isomorphic-unfetch@npm:4.0.1":
-  version: 4.0.1
-  resolution: "isomorphic-unfetch@npm:4.0.1"
+"isomorphic-unfetch@npm:4.0.2":
+  version: 4.0.2
+  resolution: "isomorphic-unfetch@npm:4.0.2"
   dependencies:
     node-fetch: ^3.2.0
     unfetch: ^5.0.0
-  checksum: ff6280eea98e6c80ba68798d961dd97956eaa2e9c92ce7d3f274637fc09726a6e60e891c4826ded5e1b70f49ebc8ffd85691f40bf4e59c0f7cc1c9c811a0c87d
+  checksum: a5c22569f18a897c333aa2d7c0042214e1d26fc502b7b7dd451aca81f34a56557cb48faf63a3ad5c6534d610c043ef36b9e999211a2c0665eabdca9e9c86e398
   languageName: node
   linkType: hard
 
@@ -754,7 +754,7 @@ __metadata:
     "@types/node": 18.11.18
     "@types/react": 18.0.26
     cors: 2.8.5
-    isomorphic-unfetch: 4.0.1
+    isomorphic-unfetch: 4.0.2
     next: 13.1.1
     prettier: 2.8.1
     pretty-quick: 3.1.3
