@@ -30,7 +30,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.13"],\
             ["@types/node", "npm:18.15.13"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["cors", "npm:2.8.5"],\
             ["isomorphic-unfetch", "npm:4.0.2"],\
             ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:13.3.0"],\
@@ -68,7 +68,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fluentui/react-component-event-listener", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:0.63.1"],\
             ["@babel/runtime", "npm:7.20.6"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"]\
@@ -95,7 +95,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@fluentui/react-component-ref", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:0.63.1"],\
             ["@babel/runtime", "npm:7.20.6"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
@@ -221,7 +221,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/@semantic-ui-react-event-stack-virtual-b5809c00f1/0/cache/@semantic-ui-react-event-stack-npm-3.1.3-0ee5780da7-c16cf26817.zip/node_modules/@semantic-ui-react/event-stack/",\
           "packageDependencies": [\
             ["@semantic-ui-react/event-stack", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:3.1.3"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["exenv", "npm:1.2.2"],\
             ["prop-types", "npm:15.8.1"],\
@@ -292,10 +292,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react", [\
-        ["npm:18.0.37", {\
-          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.37-56535c22bc-6a6c8feada.zip/node_modules/@types/react/",\
+        ["npm:18.0.38", {\
+          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.38-8793db8e46-34481c79f4.zip/node_modules/@types/react/",\
           "packageDependencies": [\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/prop-types", "npm:15.7.5"],\
             ["@types/scheduler", "npm:0.16.2"],\
             ["csstype", "npm:3.1.1"]\
@@ -773,7 +773,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/fibers", null],\
             ["@types/node-sass", null],\
             ["@types/opentelemetry__api", null],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
@@ -926,7 +926,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["platzi-nextjs", "workspace:."],\
             ["@types/cors", "npm:2.8.13"],\
             ["@types/node", "npm:18.15.13"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["cors", "npm:2.8.5"],\
             ["isomorphic-unfetch", "npm:4.0.2"],\
             ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:13.3.0"],\
@@ -1035,7 +1035,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-dom-virtual-85df420347/0/cache/react-dom-npm-18.2.0-dd675bca1c-7d323310be.zip/node_modules/react-dom/",\
           "packageDependencies": [\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["loose-envify", "npm:1.4.0"],\
             ["react", "npm:18.2.0"],\
             ["scheduler", "npm:0.23.0"]\
@@ -1086,7 +1086,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-popper", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:2.3.0"],\
             ["@popperjs/core", "npm:2.11.6"],\
             ["@types/popperjs__core", null],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
@@ -1150,7 +1150,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fluentui/react-component-ref", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:0.63.1"],\
             ["@popperjs/core", "npm:2.11.6"],\
             ["@semantic-ui-react/event-stack", "virtual:273cddbb50aa989f51e438b4adcfba7c6d4c1922ff6692523139bd2d56ffb1631a9804f4315c176ea926e05a7e30e9a407797f3f9c22d5adbe7aa1165c4bdef2#npm:3.1.3"],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["@types/react-dom", null],\
             ["clsx", "npm:1.2.1"],\
             ["keyboard-key", "npm:1.1.0"],\
@@ -1251,7 +1251,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", null],\
             ["@types/babel-plugin-macros", null],\
             ["@types/babel__core", null],\
-            ["@types/react", "npm:18.0.37"],\
+            ["@types/react", "npm:18.0.38"],\
             ["babel-plugin-macros", null],\
             ["client-only", "npm:0.0.1"],\
             ["react", "npm:18.2.0"]\
