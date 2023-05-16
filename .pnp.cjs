@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.13"],\
-            ["@types/node", "npm:18.16.9"],\
+            ["@types/node", "npm:18.16.10"],\
             ["@types/react", "npm:18.2.6"],\
             ["cors", "npm:2.8.5"],\
             ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -275,10 +275,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.16.9", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.16.9-b8c97d3012-7fe0ef372b.zip/node_modules/@types/node/",\
+        ["npm:18.16.10", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.16.10-fad6e82077-1db35543ae.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.16.9"]\
+            ["@types/node", "npm:18.16.10"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -927,7 +927,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["platzi-nextjs", "workspace:."],\
             ["@types/cors", "npm:2.8.13"],\
-            ["@types/node", "npm:18.16.9"],\
+            ["@types/node", "npm:18.16.10"],\
             ["@types/react", "npm:18.2.6"],\
             ["cors", "npm:2.8.5"],\
             ["isomorphic-unfetch", "npm:4.0.2"],\
