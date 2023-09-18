@@ -253,7 +253,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.13-4b8ac1068f-7ef197ea19.zip/node_modules/@types/cors/",\
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.13"],\
-            ["@types/node", "npm:20.6.0"]\
+            ["@types/node", "npm:20.6.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -275,10 +275,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:20.6.0", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.6.0-73d5022935-52611801af.zip/node_modules/@types/node/",\
+        ["npm:20.6.2", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-20.6.2-bff5d8378f-96fe530387.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.6.0"]\
+            ["@types/node", "npm:20.6.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -381,10 +381,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001532", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001532-c9fe7ca084-613abeb15e.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001534", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001534-bababd8437-8e8b63c1ce.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001532"]\
+            ["caniuse-lite", "npm:1.0.30001534"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -794,7 +794,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
-            ["caniuse-lite", "npm:1.0.30001532"],\
+            ["caniuse-lite", "npm:1.0.30001534"],\
             ["postcss", "npm:8.4.14"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
