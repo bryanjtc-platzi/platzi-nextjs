@@ -253,7 +253,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.14-28a22a5678-119b8ea576.zip/node_modules/@types/cors/",\
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.14"],\
-            ["@types/node", "npm:20.8.7"]\
+            ["@types/node", "npm:20.8.9"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -275,11 +275,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:20.8.7", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.8.7-a09c56cd33-2173c0c03d.zip/node_modules/@types/node/",\
+        ["npm:20.8.9", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-20.8.9-9c9903a005-0c05f3502a.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.8.7"],\
-            ["undici-types", "npm:5.25.3"]\
+            ["@types/node", "npm:20.8.9"],\
+            ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -382,10 +382,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001553", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001553-af33af7fcd-45d6a2a3c3.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001558", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001558-2e0689c62b-1bd6ef855a.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001553"]\
+            ["caniuse-lite", "npm:1.0.30001558"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -795,7 +795,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
-            ["caniuse-lite", "npm:1.0.30001553"],\
+            ["caniuse-lite", "npm:1.0.30001558"],\
             ["postcss", "npm:8.4.14"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
@@ -1340,10 +1340,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["undici-types", [\
-        ["npm:5.25.3", {\
-          "packageLocation": "./.yarn/cache/undici-types-npm-5.25.3-2ac9eafc9e-ec9d2cc365.zip/node_modules/undici-types/",\
+        ["npm:5.26.5", {\
+          "packageLocation": "./.yarn/cache/undici-types-npm-5.26.5-de4f7c7bb9-3192ef6f3f.zip/node_modules/undici-types/",\
           "packageDependencies": [\
-            ["undici-types", "npm:5.25.3"]\
+            ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
         }]\
