@@ -253,7 +253,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.15-31347a057a-ef7b0aba4c.zip/node_modules/@types/cors/",\
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.15"],\
-            ["@types/node", "npm:20.9.0"]\
+            ["@types/node", "npm:20.9.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -276,10 +276,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:20.9.0", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.9.0-d5b5fa6634-bfd927da6b.zip/node_modules/@types/node/",\
+        ["npm:20.9.2", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-20.9.2-ada70863a8-5bbb8fb224.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.9.0"],\
+            ["@types/node", "npm:20.9.2"],\
             ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
@@ -383,10 +383,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001561", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001561-b213ca8bce-949829fe03.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001563", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001563-4048eab267-c90a1e6efc.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001561"]\
+            ["caniuse-lite", "npm:1.0.30001563"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -605,10 +605,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ignore", [\
-        ["npm:5.2.4", {\
-          "packageLocation": "./.yarn/cache/ignore-npm-5.2.4-fbe6e989e5-3d4c309c60.zip/node_modules/ignore/",\
+        ["npm:5.3.0", {\
+          "packageLocation": "./.yarn/cache/ignore-npm-5.3.0-fb0f5fa062-2736da6621.zip/node_modules/ignore/",\
           "packageDependencies": [\
-            ["ignore", "npm:5.2.4"]\
+            ["ignore", "npm:5.3.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -796,7 +796,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
-            ["caniuse-lite", "npm:1.0.30001561"],\
+            ["caniuse-lite", "npm:1.0.30001563"],\
             ["postcss", "npm:8.4.14"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
@@ -994,7 +994,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chalk", "npm:3.0.0"],\
             ["execa", "npm:4.1.0"],\
             ["find-up", "npm:4.1.0"],\
-            ["ignore", "npm:5.2.4"],\
+            ["ignore", "npm:5.3.0"],\
             ["mri", "npm:1.2.0"],\
             ["multimatch", "npm:4.0.0"],\
             ["prettier", "npm:3.0.3"]\
