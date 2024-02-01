@@ -163,12 +163,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.4":
-  version: 18.19.4
-  resolution: "@types/node@npm:18.19.4"
+"@types/node@npm:18.19.13":
+  version: 18.19.13
+  resolution: "@types/node@npm:18.19.13"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 3a32a31b2df85d4bebb5e3c91ec1a0908d587a2a2fd31ab4eeebd609d1c04bbcc9ba97e290e3230f843c9f43f17efb9f5cde56412b4b0f5acbfe5577179b23c8
+  checksum: 40b34bde2e868276234dd5456be6506f75eaa1da8a030b2071fdac6c64b9862ea484794bca5d78bf67d8d3d526007b03d3c57dcdf0f8a3c58678ab7e248f17ee
   languageName: node
   linkType: hard
 
@@ -179,14 +179,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.2.46":
-  version: 18.2.46
-  resolution: "@types/react@npm:18.2.46"
+"@types/react@npm:18.2.51":
+  version: 18.2.51
+  resolution: "@types/react@npm:18.2.51"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: cb0e4dc7f41988a059e1246a19ec377101f5b16097ec4bf7000ef3c431ec0c8c873f40e95075821f908db1f4e3352775f0f18cea53dcad14dce67c0f5110f2bd
+  checksum: 1ab49e51e6314cefb9a162e9ac3a15a0474c82a0737f12f3a9628ccba555ab6645d2449152e7a5fc3ff650a7139a4718715af2c5ae9bc46b0533e98036706f84
   languageName: node
   linkType: hard
 
@@ -738,8 +738,8 @@ __metadata:
   resolution: "platzi-nextjs@workspace:."
   dependencies:
     "@types/cors": 2.8.17
-    "@types/node": 18.19.4
-    "@types/react": 18.2.46
+    "@types/node": 18.19.13
+    "@types/react": 18.2.51
     cors: 2.8.5
     isomorphic-unfetch: 4.0.2
     next: 13.4.19
