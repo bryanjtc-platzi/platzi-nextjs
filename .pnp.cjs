@@ -253,7 +253,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-cors-npm-2.8.17-2556d16051-469bd85e29.zip/node_modules/@types/cors/",\
           "packageDependencies": [\
             ["@types/cors", "npm:2.8.17"],\
-            ["@types/node", "npm:20.11.16"]\
+            ["@types/node", "npm:20.11.17"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -276,10 +276,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:20.11.16", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.11.16-d9bc65d4bc-51f0831c12.zip/node_modules/@types/node/",\
+        ["npm:20.11.17", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-20.11.17-5185bfb3de-59c0dde187.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.11.16"],\
+            ["@types/node", "npm:20.11.17"],\
             ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
@@ -383,10 +383,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001583", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001583-0bd1a8643c-35d34eac99.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001585", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001585-7cfb2e5576-c5994f0b5d.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001583"]\
+            ["caniuse-lite", "npm:1.0.30001585"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -796,7 +796,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react-dom", null],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
-            ["caniuse-lite", "npm:1.0.30001583"],\
+            ["caniuse-lite", "npm:1.0.30001585"],\
             ["postcss", "npm:8.4.14"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
