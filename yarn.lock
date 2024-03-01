@@ -163,12 +163,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:18.19.13":
-  version: 18.19.13
-  resolution: "@types/node@npm:18.19.13"
+"@types/node@npm:18.19.21":
+  version: 18.19.21
+  resolution: "@types/node@npm:18.19.21"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 40b34bde2e868276234dd5456be6506f75eaa1da8a030b2071fdac6c64b9862ea484794bca5d78bf67d8d3d526007b03d3c57dcdf0f8a3c58678ab7e248f17ee
+  checksum: a8c66d97426e8bbe341a6bdf42af9659ff5ad500c790b9046c981e234db42a1354a6ae86d5d1b75c86dfa018c742fb65c400a0e31d8f9f7505d4cfe5bd11ba72
   languageName: node
   linkType: hard
 
@@ -179,14 +179,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.2.51":
-  version: 18.2.51
-  resolution: "@types/react@npm:18.2.51"
+"@types/react@npm:18.2.61":
+  version: 18.2.61
+  resolution: "@types/react@npm:18.2.61"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 1ab49e51e6314cefb9a162e9ac3a15a0474c82a0737f12f3a9628ccba555ab6645d2449152e7a5fc3ff650a7139a4718715af2c5ae9bc46b0533e98036706f84
+  checksum: a100c09bc0d6d1a0a42b3fa0944b71d209b5adea6515fc21109972ec3267185372cc416c0467b1998afce6b90fc80f4c0029b5d975afb0b3070d864c7a924a5e
   languageName: node
   linkType: hard
 
@@ -738,12 +738,12 @@ __metadata:
   resolution: "platzi-nextjs@workspace:."
   dependencies:
     "@types/cors": 2.8.17
-    "@types/node": 18.19.13
-    "@types/react": 18.2.51
+    "@types/node": 18.19.21
+    "@types/react": 18.2.61
     cors: 2.8.5
     isomorphic-unfetch: 4.0.2
     next: 13.4.19
-    prettier: 3.2.4
+    prettier: 3.2.5
     pretty-quick: 3.1.3
     react: 18.2.0
     react-dom: 18.2.0
@@ -765,12 +765,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:3.2.4":
-  version: 3.2.4
-  resolution: "prettier@npm:3.2.4"
+"prettier@npm:3.2.5":
+  version: 3.2.5
+  resolution: "prettier@npm:3.2.5"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 6ec9385a836e0b9bac549e585101c086d1521c31d7b882d5c8bb7d7646da0693da5f31f4fff6dc080710e5e2d34c85e6fb2f8766876b3645c8be2f33b9c3d1a3
+  checksum: 2ee4e1417572372afb7a13bb446b34f20f1bf1747db77cf6ccaf57a9be005f2f15c40f903d41a6b79eec3f57fff14d32a20fb6dee1f126da48908926fe43c311
   languageName: node
   linkType: hard
 
