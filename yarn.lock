@@ -6,11 +6,11 @@ __metadata:
   cacheKey: 8
 
 "@babel/runtime@npm:^7.10.4, @babel/runtime@npm:^7.10.5":
-  version: 7.24.0
-  resolution: "@babel/runtime@npm:7.24.0"
+  version: 7.24.1
+  resolution: "@babel/runtime@npm:7.24.1"
   dependencies:
     regenerator-runtime: ^0.14.0
-  checksum: 7a6a5d40fbdd68491ec183ba2e631c07415119960083b4fd76564cce3751e9acd2f12ab89575e38496fa389fa06d458732776e69ee1858e366cc3fbdb049f847
+  checksum: 5c8f3b912ba949865f03b3cf8395c60e1f4ebd1033fbd835bdfe81b6cac8a87d85bc3c7aded5fcdf07be044c9ab8c818f467abe0deca50020c72496782639572
   languageName: node
   linkType: hard
 
@@ -148,11 +148,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 20.11.28
-  resolution: "@types/node@npm:20.11.28"
+  version: 20.11.30
+  resolution: "@types/node@npm:20.11.30"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 83fe7e649c6439103872a292f7b9808233e1eea4bf7d5afa6fce71729e3f7a06933cd792543db84cf65b89ca985fb6f44efaeb748e2ce51a6525ade030338af8
+  checksum: 7597767aa3e44b0f1bf62efa522dd17741135f283c11de6a20ead8bb7016fb4999cc30adcd8f2bb29ebb216906c92894346ccd187de170927dc1e212d2c07c81
   languageName: node
   linkType: hard
 
@@ -166,9 +166,9 @@ __metadata:
   linkType: hard
 
 "@types/prop-types@npm:*":
-  version: 15.7.11
-  resolution: "@types/prop-types@npm:15.7.11"
-  checksum: 7519ff11d06fbf6b275029fe03fff9ec377b4cb6e864cac34d87d7146c7f5a7560fd164bdc1d2dbe00b60c43713631251af1fd3d34d46c69cd354602bc0c7c54
+  version: 15.7.12
+  resolution: "@types/prop-types@npm:15.7.12"
+  checksum: ac16cc3d0a84431ffa5cfdf89579ad1e2269549f32ce0c769321fdd078f84db4fbe1b461ed5a1a496caf09e637c0e367d600c541435716a55b1d9713f5035dfe
   languageName: node
   linkType: hard
 
@@ -200,9 +200,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001406":
-  version: 1.0.30001599
-  resolution: "caniuse-lite@npm:1.0.30001599"
-  checksum: d7e619e2e723547b7311ba0ca5134d9cd55df548e93dbedcf8a6e4ec74c7db91969c4272fb1ab2fd94cddeac6a8176ebf05853eb06689d5e76bb97d979a214b0
+  version: 1.0.30001600
+  resolution: "caniuse-lite@npm:1.0.30001600"
+  checksum: 1aae03be0e9f96163e88b9305531ef8db0e01f224aff545c61a32ce0b0ca323e22531bf680bacac3e34f98e23f71ac31a21b328fa0fcbbecea65a2c2638c70c4
   languageName: node
   linkType: hard
 
@@ -841,9 +841,9 @@ __metadata:
   linkType: hard
 
 "source-map-js@npm:^1.0.2":
-  version: 1.1.0
-  resolution: "source-map-js@npm:1.1.0"
-  checksum: 6ef39381cdf5451c3db406e4b0fa95657be3c35db76fe6df3be430174b2e6af3c0b57d9728328dc62a211ae6209a0295d6a26442a55d5fccbf7cf1211fffa80e
+  version: 1.2.0
+  resolution: "source-map-js@npm:1.2.0"
+  checksum: 791a43306d9223792e84293b00458bf102a8946e7188f3db0e4e22d8d530b5f80a4ce468eb5ec0bf585443ad55ebbd630bf379c98db0b1f317fd902500217f97
   languageName: node
   linkType: hard
 
