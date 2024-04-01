@@ -24,8 +24,8 @@
     "semantic-ui-react": "2.1.5"
   },
   "devDependencies": {
-    "@types/node": "18.19.21",
-    "@types/react": "18.2.61",
+    "@types/node": "18.19.28",
+    "@types/react": "18.2.73",
     "prettier": "3.2.5",
     "pretty-quick": "3.3.1",
     "styled-jsx": "^5.1.2",
@@ -37,5 +37,5 @@
     "semi": false,
     "singleQuote": true
   },
-  "packageManager": "yarn@3.8.0"
+  "packageManager": "yarn@3.8.1"
 }
