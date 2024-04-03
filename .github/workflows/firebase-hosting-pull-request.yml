@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 18.x
           cache: 'yarn'
-      - run: yarn install --immutable --immutable-cache && yarn build && yarn export
+      - run: yarn install --immutable && yarn build && yarn export
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
