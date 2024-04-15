@@ -251,7 +251,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.12.5"]\
+          ["@types/node", "npm:20.12.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -265,10 +265,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.12.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.12.5-4856f14d45-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.12.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.12.7-3bb3d3303d-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.12.5"],\
+          ["@types/node", "npm:20.12.7"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -305,10 +305,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001606", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001606-e9949c7e13-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001609", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001609-b022d79d5d-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001606"]\
+          ["caniuse-lite", "npm:1.0.30001609"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -646,7 +646,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001606"],\
+          ["caniuse-lite", "npm:1.0.30001609"],\
           ["postcss", "npm:8.4.14"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.2.0"],\
