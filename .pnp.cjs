@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:18.19.28"],\
+          ["@types/node", "npm:18.19.31"],\
           ["@types/react", "npm:18.2.73"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-ui-css", "npm:2.5.0"],\
           ["semantic-ui-react", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.5"],\
           ["styled-jsx", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:5.1.2"],\
-          ["typescript", "patch:typescript@npm%3A5.4.3#optional!builtin<compat/typescript>::version=5.4.3&hash=5adc0c"]\
+          ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -257,10 +257,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:18.19.28", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.19.28-8865b4ef70-10c0.zip/node_modules/@types/node/",\
+      ["npm:18.19.31", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-18.19.31-cace5a518d-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:18.19.28"],\
+          ["@types/node", "npm:18.19.31"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -799,7 +799,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["platzi-nextjs", "workspace:."],\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:18.19.28"],\
+          ["@types/node", "npm:18.19.31"],\
           ["@types/react", "npm:18.2.73"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -811,7 +811,7 @@ const RAW_RUNTIME_STATE =
           ["semantic-ui-css", "npm:2.5.0"],\
           ["semantic-ui-react", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.5"],\
           ["styled-jsx", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:5.1.2"],\
-          ["typescript", "patch:typescript@npm%3A5.4.3#optional!builtin<compat/typescript>::version=5.4.3&hash=5adc0c"]\
+          ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -1182,10 +1182,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["typescript", [\
-      ["patch:typescript@npm%3A5.4.3#optional!builtin<compat/typescript>::version=5.4.3&hash=5adc0c", {\
-        "packageLocation": "../../../../cache/others/berry/cache/typescript-patch-0b5476accc-10c0.zip/node_modules/typescript/",\
+      ["patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c", {\
+        "packageLocation": "../../../../cache/others/berry/cache/typescript-patch-6e159bfddb-10c0.zip/node_modules/typescript/",\
         "packageDependencies": [\
-          ["typescript", "patch:typescript@npm%3A5.4.3#optional!builtin<compat/typescript>::version=5.4.3&hash=5adc0c"]\
+          ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=5adc0c"]\
         ],\
         "linkType": "HARD"\
       }]\
