@@ -251,16 +251,16 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.12.11"]\
+          ["@types/node", "npm:20.12.12"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:20.12.11", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.12.11-3c685779f4-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.12.12", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.12.12-3a45001f1f-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.12.11"],\
+          ["@types/node", "npm:20.12.12"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -305,10 +305,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001617", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001617-5cf8ee8c51-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001620", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001620-389289b1a8-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001617"]\
+          ["caniuse-lite", "npm:1.0.30001620"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -635,7 +635,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001617"],\
+          ["caniuse-lite", "npm:1.0.30001620"],\
           ["postcss", "npm:8.4.14"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.3.1"],\
@@ -746,10 +746,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["picocolors", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/picocolors-npm-1.0.0-d81e0b1927-10c0.zip/node_modules/picocolors/",\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../../cache/others/berry/cache/picocolors-npm-1.0.1-39442f3da8-10c0.zip/node_modules/picocolors/",\
         "packageDependencies": [\
-          ["picocolors", "npm:1.0.0"]\
+          ["picocolors", "npm:1.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -792,7 +792,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["postcss", "npm:8.4.14"],\
           ["nanoid", "npm:3.3.7"],\
-          ["picocolors", "npm:1.0.0"],\
+          ["picocolors", "npm:1.0.1"],\
           ["source-map-js", "npm:1.2.0"]\
         ],\
         "linkType": "HARD"\
@@ -824,7 +824,7 @@ const RAW_RUNTIME_STATE =
           ["find-up", "npm:5.0.0"],\
           ["ignore", "npm:5.3.1"],\
           ["mri", "npm:1.2.0"],\
-          ["picocolors", "npm:1.0.0"],\
+          ["picocolors", "npm:1.0.1"],\
           ["picomatch", "npm:3.0.1"],\
           ["prettier", "npm:3.2.5"],\
           ["tslib", "npm:2.6.2"]\
