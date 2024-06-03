@@ -1,4 +1,5 @@
 module.exports = {
+  output: "export",
   images: {
     loader: 'imgix',
     path: 'https://example.com/myaccount/',
