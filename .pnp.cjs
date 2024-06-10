@@ -46,10 +46,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime", [\
-      ["npm:7.24.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@babel-runtime-npm-7.24.6-3acd4a9fd9-10c0.zip/node_modules/@babel/runtime/",\
+      ["npm:7.24.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@babel-runtime-npm-7.24.7-035e043b00-10c0.zip/node_modules/@babel/runtime/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.24.6"],\
+          ["@babel/runtime", "npm:7.24.7"],\
           ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
@@ -67,7 +67,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@fluentui-react-component-event-listener-virtual-aff3d9dd6b/5/cache/others/berry/cache/@fluentui-react-component-event-listener-npm-0.63.1-c9f86c7846-10c0.zip/node_modules/@fluentui/react-component-event-listener/",\
         "packageDependencies": [\
           ["@fluentui/react-component-event-listener", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
-          ["@babel/runtime", "npm:7.24.6"],\
+          ["@babel/runtime", "npm:7.24.7"],\
           ["@types/react", "npm:18.3.3"],\
           ["@types/react-dom", null],\
           ["react", "npm:18.3.1"],\
@@ -94,7 +94,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@fluentui-react-component-ref-virtual-59804bcc01/5/cache/others/berry/cache/@fluentui-react-component-ref-npm-0.63.1-e73ab076ce-10c0.zip/node_modules/@fluentui/react-component-ref/",\
         "packageDependencies": [\
           ["@fluentui/react-component-ref", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
-          ["@babel/runtime", "npm:7.24.6"],\
+          ["@babel/runtime", "npm:7.24.7"],\
           ["@types/react", "npm:18.3.3"],\
           ["@types/react-dom", null],\
           ["react", "npm:18.3.1"],\
@@ -242,7 +242,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@swc-helpers-npm-0.5.2-f81ca286ad-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
           ["@swc/helpers", "npm:0.5.2"],\
-          ["tslib", "npm:2.6.2"]\
+          ["tslib", "npm:2.6.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -252,7 +252,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.14.0"]\
+          ["@types/node", "npm:20.14.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -266,10 +266,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.14.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.14.0-ca66317c0b-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.14.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.14.2-fa12d1e34b-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.14.0"],\
+          ["@types/node", "npm:20.14.2"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -306,10 +306,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001626", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001626-3580101914-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001629", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001629-167713d247-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001626"]\
+          ["caniuse-lite", "npm:1.0.30001629"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -627,7 +627,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001626"],\
+          ["caniuse-lite", "npm:1.0.30001629"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
@@ -818,7 +818,7 @@ const RAW_RUNTIME_STATE =
           ["picocolors", "npm:1.0.1"],\
           ["picomatch", "npm:3.0.1"],\
           ["prettier", "npm:3.2.5"],\
-          ["tslib", "npm:2.6.2"]\
+          ["tslib", "npm:2.6.3"]\
         ],\
         "packagePeers": [\
           "@types/prettier",\
@@ -971,7 +971,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/semantic-ui-react-virtual-a86c5da3d4/5/cache/others/berry/cache/semantic-ui-react-npm-2.1.5-cc25214a24-10c0.zip/node_modules/semantic-ui-react/",\
         "packageDependencies": [\
           ["semantic-ui-react", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.5"],\
-          ["@babel/runtime", "npm:7.24.6"],\
+          ["@babel/runtime", "npm:7.24.7"],\
           ["@fluentui/react-component-event-listener", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@fluentui/react-component-ref", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@popperjs/core", "npm:2.11.8"],\
@@ -1123,10 +1123,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tslib", [\
-      ["npm:2.6.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/tslib-npm-2.6.2-4fc8c068d9-10c0.zip/node_modules/tslib/",\
+      ["npm:2.6.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/tslib-npm-2.6.3-0fd136b3be-10c0.zip/node_modules/tslib/",\
         "packageDependencies": [\
-          ["tslib", "npm:2.6.2"]\
+          ["tslib", "npm:2.6.3"]\
         ],\
         "linkType": "HARD"\
       }]\
