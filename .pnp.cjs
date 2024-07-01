@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.12.7"],\
+          ["@types/node", "npm:20.14.9"],\
           ["@types/react", "npm:18.3.3"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -258,18 +258,18 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:20.12.7", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.12.7-3bb3d3303d-10c0.zip/node_modules/@types/node/",\
-        "packageDependencies": [\
-          ["@types/node", "npm:20.12.7"],\
-          ["undici-types", "npm:5.26.5"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:20.14.8", {\
         "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.14.8-e4f4af022f-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:20.14.8"],\
+          ["undici-types", "npm:5.26.5"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:20.14.9", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.14.9-a4571e1932-10c0.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:20.14.9"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -760,7 +760,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["platzi-nextjs", "workspace:."],\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.12.7"],\
+          ["@types/node", "npm:20.14.9"],\
           ["@types/react", "npm:18.3.3"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
