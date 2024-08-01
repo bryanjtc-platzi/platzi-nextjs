@@ -29,7 +29,7 @@
     "prettier": "3.3.3",
     "pretty-quick": "4.0.0",
     "styled-jsx": "^5.1.2",
-    "typescript": "5.4.5"
+    "typescript": "5.5.4"
   },
   "prettier": {
     "trailingComma": "es5",
