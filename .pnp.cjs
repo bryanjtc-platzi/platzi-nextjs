@@ -262,7 +262,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:22.1.0"]\
+          ["@types/node", "npm:22.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -276,10 +276,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:22.1.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.1.0-3ca0e36ca8-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.2.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.2.0-f59a1b32cb-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.1.0"],\
+          ["@types/node", "npm:22.2.0"],\
           ["undici-types", "npm:6.13.0"]\
         ],\
         "linkType": "HARD"\
@@ -316,10 +316,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001649", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001649-f371b9b86d-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001651", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001651-976e4d30de-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001649"]\
+          ["caniuse-lite", "npm:1.0.30001651"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -639,7 +639,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001649"],\
+          ["caniuse-lite", "npm:1.0.30001651"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
