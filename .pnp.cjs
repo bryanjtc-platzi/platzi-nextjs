@@ -262,7 +262,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:22.2.0"]\
+          ["@types/node", "npm:22.4.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -276,11 +276,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:22.2.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.2.0-f59a1b32cb-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.4.0", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.4.0-d2a8cbaf9a-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.2.0"],\
-          ["undici-types", "npm:6.13.0"]\
+          ["@types/node", "npm:22.4.0"],\
+          ["undici-types", "npm:6.19.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -470,10 +470,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ignore", [\
-      ["npm:5.3.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/ignore-npm-5.3.1-f6947c5df7-10c0.zip/node_modules/ignore/",\
+      ["npm:5.3.2", {\
+        "packageLocation": "../../../../cache/others/berry/cache/ignore-npm-5.3.2-346d3ba017-10c0.zip/node_modules/ignore/",\
         "packageDependencies": [\
-          ["ignore", "npm:5.3.1"]\
+          ["ignore", "npm:5.3.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -827,7 +827,7 @@ const RAW_RUNTIME_STATE =
           ["@types/prettier", null],\
           ["execa", "npm:5.1.1"],\
           ["find-up", "npm:5.0.0"],\
-          ["ignore", "npm:5.3.1"],\
+          ["ignore", "npm:5.3.2"],\
           ["mri", "npm:1.2.0"],\
           ["picocolors", "npm:1.0.1"],\
           ["picomatch", "npm:3.0.1"],\
@@ -1162,10 +1162,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.13.0", {\
-        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-6.13.0-3ce6ceead9-10c0.zip/node_modules/undici-types/",\
+      ["npm:6.19.6", {\
+        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-6.19.6-9d9ccfb00d-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:6.13.0"]\
+          ["undici-types", "npm:6.19.6"]\
         ],\
         "linkType": "HARD"\
       }]\
