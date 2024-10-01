@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.14.13"],\
+          ["@types/node", "npm:20.16.10"],\
           ["@types/react", "npm:18.3.10"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -268,11 +268,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:20.14.13", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.14.13-41f92d384c-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.16.10", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-20.16.10-b73a0ee6ad-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.14.13"],\
-          ["undici-types", "npm:5.26.5"]\
+          ["@types/node", "npm:20.16.10"],\
+          ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -774,7 +774,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["platzi-nextjs", "workspace:."],\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:20.14.13"],\
+          ["@types/node", "npm:20.16.10"],\
           ["@types/react", "npm:18.3.10"],\
           ["cors", "npm:2.8.5"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -1155,13 +1155,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:5.26.5", {\
-        "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-5.26.5-de4f7c7bb9-10c0.zip/node_modules/undici-types/",\
-        "packageDependencies": [\
-          ["undici-types", "npm:5.26.5"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:6.19.8", {\
         "packageLocation": "../../../../cache/others/berry/cache/undici-types-npm-6.19.8-9f12285b7a-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
