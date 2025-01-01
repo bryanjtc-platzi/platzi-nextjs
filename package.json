@@ -24,8 +24,8 @@
     "semantic-ui-react": "2.1.5"
   },
   "devDependencies": {
-    "@types/node": "22.10.1",
-    "@types/react": "18.3.12",
+    "@types/node": "22.10.3",
+    "@types/react": "18.3.18",
     "prettier": "3.3.3",
     "pretty-quick": "4.0.0",
     "styled-jsx": "^5.1.2",
