@@ -442,24 +442,24 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-cors-npm-2.8.17-2556d16051-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.17"],\
-          ["@types/node", "npm:22.10.2"]\
+          ["@types/node", "npm:22.10.5"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:22.10.2", {\
-        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.2-572466b048-10c0.zip/node_modules/@types/node/",\
-        "packageDependencies": [\
-          ["@types/node", "npm:22.10.2"],\
-          ["undici-types", "npm:6.20.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:22.10.3", {\
         "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.3-cd3798c728-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:22.10.3"],\
+          ["undici-types", "npm:6.20.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:22.10.5", {\
+        "packageLocation": "../../../../cache/others/berry/cache/@types-node-npm-22.10.5-cd9f5f929b-10c0.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:22.10.5"],\
           ["undici-types", "npm:6.20.0"]\
         ],\
         "linkType": "HARD"\
