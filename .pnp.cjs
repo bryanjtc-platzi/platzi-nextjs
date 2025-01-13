@@ -496,10 +496,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001690", {\
-        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001690-d600e5893e-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001692", {\
+        "packageLocation": "../../../../cache/others/berry/cache/caniuse-lite-npm-1.0.30001692-6af96beb31-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001690"]\
+          ["caniuse-lite", "npm:1.0.30001692"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -871,7 +871,7 @@ const RAW_RUNTIME_STATE =
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001690"],\
+          ["caniuse-lite", "npm:1.0.30001692"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:18.3.1"],\
