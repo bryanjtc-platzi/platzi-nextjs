@@ -340,12 +340,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.10.3":
-  version: 22.10.3
-  resolution: "@types/node@npm:22.10.3"
+"@types/node@npm:22.13.7":
+  version: 22.13.7
+  resolution: "@types/node@npm:22.13.7"
   dependencies:
     undici-types: "npm:~6.20.0"
-  checksum: 10c0/0471a73c8672c803b1f2b912c2c466d00a217186933e8ff38ec7779b4a3f88a0eea3b513a59f2abf9de17cc8bbca688a3c6643c6513ac8dd1c3e45d25fab93b1
+  checksum: 10c0/cd44f2a77369def4d21a917c1a4b518777f9488495fe1fd26284c4f19cc2c01e2f7e4030bf92ec14b613fa3d314e52b484b711f4c5a14fa6a01a30adf2c878db
   languageName: node
   linkType: hard
 
@@ -819,7 +819,7 @@ __metadata:
   resolution: "platzi-nextjs@workspace:."
   dependencies:
     "@types/cors": "npm:2.8.17"
-    "@types/node": "npm:22.10.3"
+    "@types/node": "npm:22.13.7"
     "@types/react": "npm:18.3.18"
     cors: "npm:2.8.5"
     isomorphic-unfetch: "npm:4.0.2"
