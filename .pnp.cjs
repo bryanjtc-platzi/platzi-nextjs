@@ -461,7 +461,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.18-349b3b7bcc-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.18"],\
-          ["@types/node", "npm:22.15.30"]\
+          ["@types/node", "npm:24.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -475,20 +475,20 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:22.15.30", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.15.30-04ae714c4d-10c0.zip/node_modules/@types/node/",\
+      ["npm:24.0.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.0.1-5aabcdf68a-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.15.30"],\
-          ["undici-types", "npm:6.21.0"]\
+          ["@types/node", "npm:24.0.1"],\
+          ["undici-types", "npm:7.8.0"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/prop-types", [\
-      ["npm:15.7.14", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-prop-types-npm-15.7.14-4ccaa07795-10c0.zip/node_modules/@types/prop-types/",\
+      ["npm:15.7.15", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-prop-types-npm-15.7.15-cefe16a1fa-10c0.zip/node_modules/@types/prop-types/",\
         "packageDependencies": [\
-          ["@types/prop-types", "npm:15.7.14"]\
+          ["@types/prop-types", "npm:15.7.15"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -497,7 +497,7 @@ const RAW_RUNTIME_STATE =
       ["npm:18.3.23", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-react-npm-18.3.23-612ea8557b-10c0.zip/node_modules/@types/react/",\
         "packageDependencies": [\
-          ["@types/prop-types", "npm:15.7.14"],\
+          ["@types/prop-types", "npm:15.7.15"],\
           ["@types/react", "npm:18.3.23"],\
           ["csstype", "npm:3.1.3"]\
         ],\
@@ -515,10 +515,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001721", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001721-5bb5d262e5-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001723", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001723-b76b1ad4e4-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001721"]\
+          ["caniuse-lite", "npm:1.0.30001723"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -805,7 +805,7 @@ const RAW_RUNTIME_STATE =
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
           ["busboy", "npm:1.6.0"],\
-          ["caniuse-lite", "npm:1.0.30001721"],\
+          ["caniuse-lite", "npm:1.0.30001723"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.3.3"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
@@ -1314,6 +1314,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-6.21.0-eb2b0ed56a-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
           ["undici-types", "npm:6.21.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:7.8.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.8.0-86f3e2d23e-10c0.zip/node_modules/undici-types/",\
+        "packageDependencies": [\
+          ["undici-types", "npm:7.8.0"]\
         ],\
         "linkType": "HARD"\
       }]\
