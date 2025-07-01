@@ -14,17 +14,17 @@
   "author": "Bryan <bryan.thomas25000@icloud.com>",
   "license": "ISC",
   "dependencies": {
-    "@types/cors": "2.8.18",
+    "@types/cors": "2.8.19",
     "cors": "2.8.5",
     "isomorphic-unfetch": "4.0.2",
-    "next": "15.3.3",
+    "next": "15.3.4",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "semantic-ui-css": "2.5.0",
     "semantic-ui-react": "2.1.5"
   },
   "devDependencies": {
-    "@types/node": "22.15.29",
+    "@types/node": "22.15.34",
     "@types/react": "18.3.23",
     "prettier": "3.5.3",
     "pretty-quick": "4.1.1",
@@ -37,5 +37,5 @@
     "semi": false,
     "singleQuote": true
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
