@@ -462,7 +462,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:24.3.1"]\
+          ["@types/node", "npm:24.4.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -476,11 +476,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:24.3.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.3.1-b558101365-10c0.zip/node_modules/@types/node/",\
+      ["npm:24.4.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.4.0-8e03fde567-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:24.3.1"],\
-          ["undici-types", "npm:7.10.0"]\
+          ["@types/node", "npm:24.4.0"],\
+          ["undici-types", "npm:7.11.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -568,7 +568,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["color-name", "npm:1.1.4"],\
           ["color-string", "npm:1.9.1"],\
-          ["simple-swizzle", "npm:0.2.2"]\
+          ["simple-swizzle", "npm:0.2.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -603,10 +603,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["detect-libc", [\
-      ["npm:2.0.4", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/detect-libc-npm-2.0.4-e8a2aba8b6-10c0.zip/node_modules/detect-libc/",\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/detect-libc-npm-2.1.0-795318d7fa-10c0.zip/node_modules/detect-libc/",\
         "packageDependencies": [\
-          ["detect-libc", "npm:2.0.4"]\
+          ["detect-libc", "npm:2.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -662,10 +662,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["is-arrayish", [\
-      ["npm:0.3.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/is-arrayish-npm-0.3.2-f856180f79-10c0.zip/node_modules/is-arrayish/",\
+      ["npm:0.3.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/is-arrayish-npm-0.3.4-1f3b251b0c-10c0.zip/node_modules/is-arrayish/",\
         "packageDependencies": [\
-          ["is-arrayish", "npm:0.3.2"]\
+          ["is-arrayish", "npm:0.3.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1177,7 +1177,7 @@ const RAW_RUNTIME_STATE =
           ["@img/sharp-win32-ia32", "npm:0.34.3"],\
           ["@img/sharp-win32-x64", "npm:0.34.3"],\
           ["color", "npm:4.2.3"],\
-          ["detect-libc", "npm:2.0.4"],\
+          ["detect-libc", "npm:2.1.0"],\
           ["semver", "npm:7.7.2"],\
           ["sharp", "npm:0.34.3"]\
         ],\
@@ -1185,11 +1185,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["simple-swizzle", [\
-      ["npm:0.2.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/simple-swizzle-npm-0.2.2-8dee37fad1-10c0.zip/node_modules/simple-swizzle/",\
+      ["npm:0.2.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/simple-swizzle-npm-0.2.4-ae31325c80-10c0.zip/node_modules/simple-swizzle/",\
         "packageDependencies": [\
-          ["is-arrayish", "npm:0.3.2"],\
-          ["simple-swizzle", "npm:0.2.2"]\
+          ["is-arrayish", "npm:0.3.4"],\
+          ["simple-swizzle", "npm:0.2.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1298,10 +1298,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.10.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.10.0-cd8324b9eb-10c0.zip/node_modules/undici-types/",\
+      ["npm:7.11.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.11.0-7389c6cf1c-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:7.10.0"]\
+          ["undici-types", "npm:7.11.0"]\
         ],\
         "linkType": "HARD"\
       }]\
