@@ -471,7 +471,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:24.5.2"]\
+          ["@types/node", "npm:24.6.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -485,11 +485,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:24.5.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.5.2-7697d08520-10c0.zip/node_modules/@types/node/",\
+      ["npm:24.6.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.6.2-22876fbd21-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:24.5.2"],\
-          ["undici-types", "npm:7.12.0"]\
+          ["@types/node", "npm:24.6.2"],\
+          ["undici-types", "npm:7.13.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -515,10 +515,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001745", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001745-382358123f-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001748", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001748-6258c96ac0-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001745"]\
+          ["caniuse-lite", "npm:1.0.30001748"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -571,10 +571,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["detect-libc", [\
-      ["npm:2.1.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/detect-libc-npm-2.1.1-49de3b3e5e-10c0.zip/node_modules/detect-libc/",\
+      ["npm:2.1.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/detect-libc-npm-2.1.2-d0c382b1e2-10c0.zip/node_modules/detect-libc/",\
         "packageDependencies": [\
-          ["detect-libc", "npm:2.1.1"]\
+          ["detect-libc", "npm:2.1.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -753,7 +753,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
-          ["caniuse-lite", "npm:1.0.30001745"],\
+          ["caniuse-lite", "npm:1.0.30001748"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.4.7"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
@@ -1136,7 +1136,7 @@ const RAW_RUNTIME_STATE =
           ["@img/sharp-win32-arm64", "npm:0.34.4"],\
           ["@img/sharp-win32-ia32", "npm:0.34.4"],\
           ["@img/sharp-win32-x64", "npm:0.34.4"],\
-          ["detect-libc", "npm:2.1.1"],\
+          ["detect-libc", "npm:2.1.2"],\
           ["semver", "npm:7.7.2"],\
           ["sharp", "npm:0.34.4"]\
         ],\
@@ -1247,10 +1247,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.12.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.12.0-af0c725921-10c0.zip/node_modules/undici-types/",\
+      ["npm:7.13.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.13.0-df78d4ea2d-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:7.12.0"]\
+          ["undici-types", "npm:7.13.0"]\
         ],\
         "linkType": "HARD"\
       }]\
