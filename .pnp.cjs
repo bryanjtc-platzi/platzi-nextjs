@@ -490,7 +490,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:25.0.3"]\
+          ["@types/node", "npm:25.0.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -504,10 +504,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:25.0.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.0.3-b5e8cb0cae-10c0.zip/node_modules/@types/node/",\
+      ["npm:25.0.6", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.0.6-9cfb7bda7c-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:25.0.3"],\
+          ["@types/node", "npm:25.0.6"],\
           ["undici-types", "npm:7.16.0"]\
         ],\
         "linkType": "HARD"\
@@ -534,10 +534,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001762", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001762-10b12126b2-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001764", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001764-b7ddad43f9-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001762"]\
+          ["caniuse-lite", "npm:1.0.30001764"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -772,7 +772,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
-          ["caniuse-lite", "npm:1.0.30001762"],\
+          ["caniuse-lite", "npm:1.0.30001764"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.5.9"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
