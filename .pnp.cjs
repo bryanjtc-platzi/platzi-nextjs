@@ -48,10 +48,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime", [\
-      ["npm:7.28.4", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@babel-runtime-npm-7.28.4-31bc1b0001-10c0.zip/node_modules/@babel/runtime/",\
+      ["npm:7.28.6", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@babel-runtime-npm-7.28.6-f40c99aeef-10c0.zip/node_modules/@babel/runtime/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.28.4"]\
+          ["@babel/runtime", "npm:7.28.6"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -77,7 +77,7 @@ const RAW_RUNTIME_STATE =
       ["virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1", {\
         "packageLocation": "./.yarn/__virtual__/@fluentui-react-component-event-listener-virtual-aff3d9dd6b/7/runner/cache/others/berry/cache/@fluentui-react-component-event-listener-npm-0.63.1-c9f86c7846-10c0.zip/node_modules/@fluentui/react-component-event-listener/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.28.4"],\
+          ["@babel/runtime", "npm:7.28.6"],\
           ["@fluentui/react-component-event-listener", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@types/react", "npm:18.3.27"],\
           ["@types/react-dom", null],\
@@ -104,7 +104,7 @@ const RAW_RUNTIME_STATE =
       ["virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1", {\
         "packageLocation": "./.yarn/__virtual__/@fluentui-react-component-ref-virtual-59804bcc01/7/runner/cache/others/berry/cache/@fluentui-react-component-ref-npm-0.63.1-e73ab076ce-10c0.zip/node_modules/@fluentui/react-component-ref/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.28.4"],\
+          ["@babel/runtime", "npm:7.28.6"],\
           ["@fluentui/react-component-ref", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@types/react", "npm:18.3.27"],\
           ["@types/react-dom", null],\
@@ -490,7 +490,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:25.0.6"]\
+          ["@types/node", "npm:25.0.9"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -504,10 +504,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:25.0.6", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.0.6-9cfb7bda7c-10c0.zip/node_modules/@types/node/",\
+      ["npm:25.0.9", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.0.9-5ff690ea31-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:25.0.6"],\
+          ["@types/node", "npm:25.0.9"],\
           ["undici-types", "npm:7.16.0"]\
         ],\
         "linkType": "HARD"\
@@ -534,10 +534,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001764", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001764-b7ddad43f9-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001765", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001765-bb4658c2de-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001764"]\
+          ["caniuse-lite", "npm:1.0.30001765"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -660,10 +660,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["jquery", [\
-      ["npm:3.7.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/jquery-npm-3.7.1-eeeac0f21e-10c0.zip/node_modules/jquery/",\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/jquery-npm-4.0.0-a7e8df4e00-10c0.zip/node_modules/jquery/",\
         "packageDependencies": [\
-          ["jquery", "npm:3.7.1"]\
+          ["jquery", "npm:4.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -772,7 +772,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
-          ["caniuse-lite", "npm:1.0.30001764"],\
+          ["caniuse-lite", "npm:1.0.30001765"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.5.9"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
@@ -1065,7 +1065,7 @@ const RAW_RUNTIME_STATE =
       ["npm:2.5.0", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/semantic-ui-css-npm-2.5.0-b745898d9d-10c0.zip/node_modules/semantic-ui-css/",\
         "packageDependencies": [\
-          ["jquery", "npm:3.7.1"],\
+          ["jquery", "npm:4.0.0"],\
           ["semantic-ui-css", "npm:2.5.0"]\
         ],\
         "linkType": "HARD"\
@@ -1082,7 +1082,7 @@ const RAW_RUNTIME_STATE =
       ["virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:2.1.5", {\
         "packageLocation": "./.yarn/__virtual__/semantic-ui-react-virtual-a86c5da3d4/7/runner/cache/others/berry/cache/semantic-ui-react-npm-2.1.5-cc25214a24-10c0.zip/node_modules/semantic-ui-react/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.28.4"],\
+          ["@babel/runtime", "npm:7.28.6"],\
           ["@fluentui/react-component-event-listener", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@fluentui/react-component-ref", "virtual:a86c5da3d4261453d15bd4f8b7442d88d07323a36fd9343744072c0e056d6d5c1359b48ecd77bd515efcb5ccf21495c63dd51c2c01154faa129fa887dd5ba32b#npm:0.63.1"],\
           ["@popperjs/core", "npm:2.11.8"],\
