@@ -29,9 +29,9 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.1"],\
+          ["@types/node", "npm:22.19.7"],\
           ["@types/react", "npm:18.3.27"],\
-          ["cors", "npm:2.8.5"],\
+          ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.5.9"],\
           ["platzi-nextjs", "workspace:."],\
@@ -496,10 +496,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:22.19.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.19.1-27ccf17e62-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.19.7", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.19.7-d4e0361572-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.19.1"],\
+          ["@types/node", "npm:22.19.7"],\
           ["undici-types", "npm:6.21.0"]\
         ],\
         "linkType": "HARD"\
@@ -561,10 +561,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["cors", [\
-      ["npm:2.8.5", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/cors-npm-2.8.5-c9935a2d12-10c0.zip/node_modules/cors/",\
+      ["npm:2.8.6", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/cors-npm-2.8.6-378df681b0-10c0.zip/node_modules/cors/",\
         "packageDependencies": [\
-          ["cors", "npm:2.8.5"],\
+          ["cors", "npm:2.8.6"],\
           ["object-assign", "npm:4.1.1"],\
           ["vary", "npm:1.1.2"]\
         ],\
@@ -880,9 +880,9 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.1"],\
+          ["@types/node", "npm:22.19.7"],\
           ["@types/react", "npm:18.3.27"],\
-          ["cors", "npm:2.8.5"],\
+          ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.5.9"],\
           ["platzi-nextjs", "workspace:."],\
