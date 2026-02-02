@@ -490,7 +490,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:25.0.10"]\
+          ["@types/node", "npm:25.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -504,10 +504,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:25.0.10", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.0.10-cffc0b5e50-10c0.zip/node_modules/@types/node/",\
+      ["npm:25.2.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.2.0-b623340683-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:25.0.10"],\
+          ["@types/node", "npm:25.2.0"],\
           ["undici-types", "npm:7.16.0"]\
         ],\
         "linkType": "HARD"\
