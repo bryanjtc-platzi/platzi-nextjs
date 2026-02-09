@@ -490,7 +490,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:25.2.0"]\
+          ["@types/node", "npm:25.2.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -504,10 +504,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:25.2.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.2.0-b623340683-10c0.zip/node_modules/@types/node/",\
+      ["npm:25.2.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.2.2-5d63c599e1-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:25.2.0"],\
+          ["@types/node", "npm:25.2.2"],\
           ["undici-types", "npm:7.16.0"]\
         ],\
         "linkType": "HARD"\
@@ -534,10 +534,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001766", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001766-3c13c99c61-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001769", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001769-4fac3a9dca-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001766"]\
+          ["caniuse-lite", "npm:1.0.30001769"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -772,7 +772,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", null],\
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
-          ["caniuse-lite", "npm:1.0.30001766"],\
+          ["caniuse-lite", "npm:1.0.30001769"],\
           ["next", "virtual:835533e4f0859000cd3a12f9dde3e5564180672b421be82ad79707cfe65289a8fb2be86650ebb147a3246152a2b521e3b66e432d28c52755653196e7b20c52b8#npm:15.5.10"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:18.3.1"],\
@@ -1111,10 +1111,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["semver", [\
-      ["npm:7.7.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.7.3-9cf7b3b46c-10c0.zip/node_modules/semver/",\
+      ["npm:7.7.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.7.4-746e538da5-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.7.3"]\
+          ["semver", "npm:7.7.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1158,7 +1158,7 @@ const RAW_RUNTIME_STATE =
           ["@img/sharp-win32-ia32", "npm:0.34.5"],\
           ["@img/sharp-win32-x64", "npm:0.34.5"],\
           ["detect-libc", "npm:2.1.2"],\
-          ["semver", "npm:7.7.3"],\
+          ["semver", "npm:7.7.4"],\
           ["sharp", "npm:0.34.5"]\
         ],\
         "linkType": "HARD"\
