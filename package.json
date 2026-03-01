@@ -17,15 +17,15 @@
     "@types/cors": "2.8.19",
     "cors": "2.8.6",
     "isomorphic-unfetch": "4.0.2",
-    "next": "15.5.10",
+    "next": "15.5.12",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "semantic-ui-css": "2.5.0",
     "semantic-ui-react": "2.1.5"
   },
   "devDependencies": {
-    "@types/node": "22.19.7",
-    "@types/react": "18.3.27",
+    "@types/node": "22.19.13",
+    "@types/react": "18.3.28",
     "prettier": "3.8.1",
     "pretty-quick": "4.1.1",
     "styled-jsx": "^5.1.2",
