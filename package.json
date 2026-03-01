@@ -27,7 +27,7 @@
     "@types/node": "22.19.13",
     "@types/react": "18.3.28",
     "prettier": "3.8.1",
-    "pretty-quick": "4.1.1",
+    "pretty-quick": "4.2.2",
     "styled-jsx": "^5.1.2",
     "typescript": "5.8.3"
   },
