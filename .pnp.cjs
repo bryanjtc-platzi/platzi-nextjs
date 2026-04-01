@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.13"],\
+          ["@types/node", "npm:22.19.15"],\
           ["@types/react", "npm:18.3.28"],\
           ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -505,10 +505,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:22.19.13", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.19.13-2d3dc157ca-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.19.15", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.19.15-1a3f9360f4-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.19.13"],\
+          ["@types/node", "npm:22.19.15"],\
           ["undici-types", "npm:6.21.0"]\
         ],\
         "linkType": "HARD"\
@@ -839,7 +839,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.13"],\
+          ["@types/node", "npm:22.19.15"],\
           ["@types/react", "npm:18.3.28"],\
           ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
