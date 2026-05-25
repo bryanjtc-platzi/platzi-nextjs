@@ -499,7 +499,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-cors-npm-2.8.19-a67092452c-10c0.zip/node_modules/@types/cors/",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:25.8.0"]\
+          ["@types/node", "npm:25.9.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -513,10 +513,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:25.8.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.8.0-01bd3ab1bf-10c0.zip/node_modules/@types/node/",\
+      ["npm:25.9.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-25.9.1-fa3ebe64ec-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:25.8.0"],\
+          ["@types/node", "npm:25.9.1"],\
           ["undici-types", "npm:7.24.6"]\
         ],\
         "linkType": "HARD"\
@@ -1070,10 +1070,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["semver", [\
-      ["npm:7.8.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.8.0-ee5fb7af58-10c0.zip/node_modules/semver/",\
+      ["npm:7.8.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.8.1-9448873cc9-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.8.0"]\
+          ["semver", "npm:7.8.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1117,7 +1117,7 @@ const RAW_RUNTIME_STATE =
           ["@img/sharp-win32-ia32", "npm:0.34.5"],\
           ["@img/sharp-win32-x64", "npm:0.34.5"],\
           ["detect-libc", "npm:2.1.2"],\
-          ["semver", "npm:7.8.0"],\
+          ["semver", "npm:7.8.1"],\
           ["sharp", "npm:0.34.5"]\
         ],\
         "linkType": "HARD"\
