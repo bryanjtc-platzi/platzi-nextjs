@@ -1,8 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base"
-  ],
+  "extends": ["config:recommended"],
   "automerge": true,
   "platformAutomerge": true,
   "rebaseWhen": "behind-base-branch",
@@ -19,5 +17,5 @@
       "groupSlug": "all-patch",
       "matchUpdateTypes": ["patch"]
     }
-  ],
+  ]
 }
