@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.20"],\
+          ["@types/node", "npm:24.13.3"],\
           ["@types/react", "npm:19.2.17"],\
           ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -505,11 +505,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:22.19.20", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-22.19.20-e09be0606f-10c0.zip/node_modules/@types/node/",\
+      ["npm:24.13.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@types-node-npm-24.13.3-b512a0bbeb-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.19.20"],\
-          ["undici-types", "npm:6.21.0"]\
+          ["@types/node", "npm:24.13.3"],\
+          ["undici-types", "npm:7.18.2"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -829,7 +829,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/cors", "npm:2.8.19"],\
-          ["@types/node", "npm:22.19.20"],\
+          ["@types/node", "npm:24.13.3"],\
           ["@types/react", "npm:19.2.17"],\
           ["cors", "npm:2.8.6"],\
           ["isomorphic-unfetch", "npm:4.0.2"],\
@@ -1207,10 +1207,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici-types", [\
-      ["npm:6.21.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-6.21.0-eb2b0ed56a-10c0.zip/node_modules/undici-types/",\
+      ["npm:7.18.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/undici-types-npm-7.18.2-3e6d69d829-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:6.21.0"]\
+          ["undici-types", "npm:7.18.2"]\
         ],\
         "linkType": "HARD"\
       }],\
